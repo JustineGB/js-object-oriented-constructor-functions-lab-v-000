@@ -1,0 +1,1 @@
+function Scooter(name, age, hometown) {console.log(this)}
